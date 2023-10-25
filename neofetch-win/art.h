@@ -84,6 +84,68 @@ const std::wstring win11art19 = L"llllllllllllllll   llllllllllllllll";
 //llllllllllllllll   llllllllllllllll
 //llllllllllllllll   llllllllllllllll
 
+const std::wstring unknownart01 = L"              c1111111111c                         ";
+const std::wstring unknownart02 = L"           c1111111111111111c                      ";
+const std::wstring unknownart03 = L"           1111111111111111111                     ";
+const std::wstring unknownart04 = L"          1111111111111111111c  c                  ";
+const std::wstring unknownart05 = L"          1111111111111111111   111c             c1";
+const std::wstring unknownart06 = L"         c1111111111111111111  c1111111cccccc11111c";
+const std::wstring unknownart07 = L"         1111111111111111111   1111111111111111111 ";
+const std::wstring unknownart08 = L"         1111111111111111111  c1111111111111111111 ";
+const std::wstring unknownart09 = L"        1111111111111111111c  1111111111111111111  ";
+const std::wstring unknownart10 = L"        1111111111111111111   1111111111111111111  ";
+const std::wstring unknownart11 = L"       1111111111111111111c  c111111111111111111c  ";
+const std::wstring unknownart12 = L"       111111c   cc1111111   1111111111111111111   ";
+const std::wstring unknownart13 = L"      c1c             c111  c111111111111111111c   ";
+const std::wstring unknownart14 = L"          cc111111c         1111111111111111111    ";
+const std::wstring unknownart15 = L"      c111111111111111c     1111111111111111111    ";
+const std::wstring unknownart16 = L"     c111111111111111111c    c1111111111111111     ";
+const std::wstring unknownart17 = L"     1111111111111111111        cc1111111cc        ";
+const std::wstring unknownart18 = L"    c1111111111111111111  c1c               c      ";
+const std::wstring unknownart20 = L"    1111111111111111111c  c1111ccc     ccc11c      ";
+const std::wstring unknownart21 = L"   c1111111111111111111   111111111111111111c      ";
+const std::wstring unknownart22 = L"   1111111111111111111   c111111111111111111       ";
+const std::wstring unknownart23 = L"   1111111111111111111   111111111111111111c       ";
+const std::wstring unknownart24 = L"  c111111111111111111c  c111111111111111111        ";
+const std::wstring unknownart25 = L"  1111111111111111111   1111111111111111111        ";
+const std::wstring unknownart26 = L" c111111111111111111c  c111111111111111111c        ";
+const std::wstring unknownart27 = L" 11c           c1111c  c111111111111111111         ";
+const std::wstring unknownart28 = L"                  c1   111111111111111111c         ";
+const std::wstring unknownart29 = L"                      c111111111111111111          ";
+const std::wstring unknownart30 = L"                       cc111111111111111c          ";
+const std::wstring unknownart31 = L"                          ccc11111ccc              ";
+
+//              c1111111111c                         
+//           c1111111111111111c                      
+//           1111111111111111111                     
+//          1111111111111111111c  c                  
+//          1111111111111111111   111c             c1
+//         c1111111111111111111  c1111111cccccc11111c
+//         1111111111111111111   1111111111111111111 
+//         1111111111111111111  c1111111111111111111 
+//        1111111111111111111c  1111111111111111111  
+//        1111111111111111111   1111111111111111111  
+//       1111111111111111111c  c111111111111111111c  
+//       111111c   cc1111111   1111111111111111111   
+//      c1c             c111  c111111111111111111c   
+//          cc111111c         1111111111111111111    
+//      c111111111111111c     1111111111111111111    
+//     c111111111111111111c    c1111111111111111     
+//     1111111111111111111        cc1111111cc        
+//    c1111111111111111111  c1c               c      
+//    1111111111111111111c  c1111ccc     ccc11c      
+//   c1111111111111111111   111111111111111111c      
+//   1111111111111111111   c111111111111111111       
+//   1111111111111111111   111111111111111111c       
+//  c111111111111111111c  c111111111111111111        
+//  1111111111111111111   1111111111111111111        
+// c111111111111111111c  c111111111111111111c        
+// 11c           c1111c  c111111111111111111         
+//                  c1   111111111111111111c         
+//                      c111111111111111111          
+//                       cc111111111111111c          
+//                          ccc11111ccc              
+
 // identical to win11art but you could customize this if you so choose
 
 const std::wstring unknownart01 = L"llllllllllllllll   llllllllllllllll";
