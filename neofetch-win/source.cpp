@@ -210,7 +210,7 @@ std::wstring getgpu() {
 
 }
 int artsel() {
-
+	std::wstring win7 = L"Windows 7";
 	std::wstring win10 = L"Windows 10";
 	std::wstring win11 = L"Windows 11";
 
